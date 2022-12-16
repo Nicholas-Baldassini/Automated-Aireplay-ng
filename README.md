@@ -2,8 +2,9 @@
 
 # Disclaimer
 
-This is for educational use only and network diagnostics. Do not use this script on networks that you do not own or not have permission to use. Use responsibly. I am not responsible for any legal trouble you get into.
+This is for educational use only and network diagnostics. Do not use this script on networks that you do not own or not have permission to use. Use responsibly. I am not responsible for any trouble you get into.
 
+# Description
 This is a script to automate the aireplay-ng de-authentication process. All you have to do is specify the type of device you want to disconnect from your wireless access points and run the script. This script can be used to de-clutter your network or forcibly disconnect unwanted devices from YOUR network.
 
 This script requires aircrack-ng installed on your system.
